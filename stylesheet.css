@@ -1,0 +1,120 @@
+body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px; text-align: center;}
+  .margin {margin-bottom: 30px;}
+  .bg-1 {
+      background-image: url("https://images7.alphacoders.com/408/408397.jpg");
+      background-size: cover;
+      border: 2px solid #183054;
+  }
+  .bg-2 {
+      background-image: url("https://wallpaperscraft.com/image/kln_germany_bridge_weser_reflection_architecture_hdr_47748_2560x1440.jpg");
+      background-size: cover;
+      border: 2px solid #183054;
+  }
+  .bg-3 {
+      background-image: url("https://wallpaperscraft.com/image/valencia_spain_building_architecture_reflection_58821_1920x1080.jpg");
+      background-size: cover;
+      border: 2px solid #183054;
+      padding-bottom: 300px !important;
+  }
+  .bg-4 {
+      background-color: #262626; 
+      color: #fff;
+      border: 2px solid #183054;
+      padding-bottom: 50px !important;
+      padding-top: 30px !important;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 200px;
+  }
+  .container-fluid .bg-3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 10px;
+      padding-left: 0px;
+      padding-right: 0px;
+      border: 0px 0px 1px 0px;
+      border: #183054;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 2px;
+      background-color: #183059 !important;
+  }
+  .navbar-nav li a {color: #fff !important;}
+  
+  .navbar-nav  li a:hover {
+      color: #276FBF !important;
+  }
+.navbar-brand {
+  color: #fff !important;
+  font-family: Indie Flower;
+}
+.navbar-brand:hover {
+  color: #276FBF;
+}
+
+.welcome_message {
+    left: 0;
+    margin: auto;
+    top: 50%;
+    width: 100%;
+    border: 2px solid white;
+    color: white;
+    padding: 30px 30px 30px 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.welcome_message:hover {
+  background-color: rgba(0,0,0,0.7);
+}
+
+.portfolio_examples {
+    left: 0;
+    margin: auto;
+    top: 50%;
+    padding-left: 10px;
+    border: 2px solid white;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.portfolio_examples:hover {
+  background-color: rgba(0,0,0,0.7);
+}
+
+.contactPoint {
+    left: 0;
+    margin: auto;
+    top: 50%;
+    width: 100%;
+    border: 2px solid white;
+    color: white;
+    padding: 30px 30px 30px 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.contactPoint:hover {
+  background-color: rgba(0,0,0,0.7);
+}
+
+h3 a{
+  text-decoration: none !important;
+  color: white;
+}
+
+h3 a:hover{
+  text-decoration: none !important;
+  color: white;
+}
+
+footer {
+  height: 20px;
+  margin: 0px;
+}
