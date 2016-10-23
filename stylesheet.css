@@ -8,16 +8,19 @@ body {
   .bg-1 {
       background-image: url("https://images7.alphacoders.com/408/408397.jpg");
       background-size: cover;
+      background-position: center;
       border: 2px solid #183054;
   }
   .bg-2 {
       background-image: url("https://wallpaperscraft.com/image/kln_germany_bridge_weser_reflection_architecture_hdr_47748_2560x1440.jpg");
       background-size: cover;
+      background-position: center;
       border: 2px solid #183054;
   }
   .bg-3 {
       background-image: url("https://wallpaperscraft.com/image/valencia_spain_building_architecture_reflection_58821_1920x1080.jpg");
       background-size: cover;
+      background-position: center;
       border: 2px solid #183054;
       padding-bottom: 300px !important;
   }
