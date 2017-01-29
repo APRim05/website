@@ -92,6 +92,10 @@ body {
 .portfolio_examples:hover {
   background-color: rgba(0,0,0,0.7);
 } */
+img {
+  min-height: 400px;
+  max-height: 400px;
+}
 
 .contactPoint {
     left: 0;
