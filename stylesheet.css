@@ -79,7 +79,7 @@ body {
 .welcome_message:hover {
   background-color: rgba(0,0,0,0.7);
 }
-/* 
+
 .portfolio_examples {
     left: 0;
     margin: auto;
@@ -91,7 +91,7 @@ body {
 }
 .portfolio_examples:hover {
   background-color: rgba(0,0,0,0.7);
-} */
+}
 img {
   min-height: 400px;
   max-height: 400px;
